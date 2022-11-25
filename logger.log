@@ -1,0 +1,22 @@
+DEBUG:root:This is the debug message
+INFO:root:This is the info message
+DEBUG:root:This is the debug message
+INFO:root:This is the info message
+WARNING:root:This is the warning message
+ERROR:root:This is error message
+DEBUG:root:This is the debug message
+INFO:root:This is the info message
+WARNING:root:This is the warning message
+ERROR:root:This is error message
+2022-11-15 09:15:17,562:DEBUG:This is the debug message
+2022-11-15 09:15:17,562:INFO:This is the info message
+2022-11-15 09:15:17,563:WARNING:This is the warning message
+2022-11-15 09:15:17,563:ERROR:This is error message
+ 2022-11-15 09:28:45,889:DEBUG:This is the debug message
+2022-11-15 09:28:45,891:INFO:This is the info message
+2022-11-15 09:28:45,891:WARNING:This is the warning message
+2022-11-15 09:28:45,891:ERROR:This is error message
+11/15/2022 09:28:57 AM:DEBUG:This is the debug message
+11/15/2022 09:28:57 AM:INFO:This is the info message
+11/15/2022 09:28:57 AM:WARNING:This is the warning message
+11/15/2022 09:28:57 AM:ERROR:This is error message
